@@ -10,13 +10,13 @@
 # Review documentation to determine if you should use `theme` or `remote_theme`
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
-#theme                  : minimal-mistakes-jekyll
-remote_theme: "mmistakes/minimal-mistakes@4.21.0"
+theme                  : minimal-mistakes-jekyll
+#remote_theme: "mmistakes/minimal-mistakes@4.21.0"
 minimal_mistakes_skin    : "mint" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "dongjin Blog"
+title                    : "Dongjin Blog"
 title_separator          : "|"
 subtitle                 : "Welcome" # site tagline that appears below site title in masthead
 name                     : "임동진"
