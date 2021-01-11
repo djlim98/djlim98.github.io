@@ -8,6 +8,6 @@ main:
   
   - title: "About"
     url: /about/
-    
-  - title: "year-archive"
+
+  - title: "Year-archive"
     url: /year-archive/
