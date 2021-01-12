@@ -6,7 +6,7 @@ permalink: /
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/unsplash-image-1.jpg
+  overlay_image: /assets/images/20201017_152953.jpg
   actions:
     - label: "Contact now <i class='fas fa-bolt'></i>"
       url: "https://github.com/mmistakes/minimal-mistakes/"
@@ -15,20 +15,19 @@ excerpt: "안녕하세요 개발자 임동진입니다."
 intro: 
   - excerpt: '주로 백엔드 개발을 하며 데이터사이언스 분야에 관심이 많습니다. '
 feature_row:
-  - image_path: assets/images/unsplash-gallery-image-1-th.jpg
+  - image_path: assets/images/f_1.png
     alt: "placeholder image 1"
-    title: "Placeholder 1"
+    title: "Back-end"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
+  - image_path: /assets/images/f_2.png
     alt: "placeholder image 2"
-    title: "Placeholder 2"
+    title: "AWS/DOCKER"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
-    title: "Placeholder 3"
+  - image_path: /assets/images/f_3.png
+    title: "Data Science"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
 feature_row2:
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
