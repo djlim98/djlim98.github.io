@@ -23,9 +23,6 @@ feature_row:
     alt: "placeholder image 2"
     title: "AWS/DOCKER"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
   - image_path: /assets/images/f_3.png
     title: "Data Science"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
@@ -63,4 +60,4 @@ feature_row4:
 
 {% include feature_row id="feature_row3" type="right" %}
 
-{% include feature_row id="feature_row4" type="center" %}
+{% include feature_row id="feature_row4" type="left" %}
