@@ -13,12 +13,12 @@ header:
   # caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 excerpt: "안녕하세요 개발자 임동진입니다."
 intro: 
-  - excerpt: '주로 백엔드 개발을 하며 데이터사이언스 분야에 관심이 많습니다. '
+  - excerpt: '아래와 같은 관심사를 가지고 있습니다'
 feature_row:
   - image_path: assets/images/f_1.png
     alt: "placeholder image 1"
     title: "Back-end"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    excerpt: "첫 업무로 **Node.js**로 웹서버 구현을 맡으면서 자연스럽게 백엔드에 관심을 가지게 되었습니다. **Express**를 주로 사용해보았고 최근 **Flask**와 **Django**, **Spring**으로 개인 프로젝트를 진행해보기 위해 공부하고 있습니다."
   - image_path: /assets/images/f_2.png
     alt: "placeholder image 2"
     title: "AWS/DOCKER"
@@ -51,6 +51,7 @@ feature_row4:
     btn_label: "Read More"
     btn_class: "btn--primary"
 ---
+
 
 {% include feature_row id="intro" type="center" %}
 
