@@ -22,10 +22,10 @@ feature_row:
   - image_path: /assets/images/f_2.png
     alt: "placeholder image 2"
     title: "AWS/DOCKER"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    excerpt: "Cloud를 이용한 배포를 경험해보면서 aws의 장점을 많이 체감할 수 있었습니다. 그래서 aws를 최대한 활용해보려는 생각을 가지고 프로젝트를 진행하며 효율적인 IT 인프라 구조가 무엇인지 계속 고민하며 답을 찾고 있습니다."
   - image_path: /assets/images/f_3.png
     title: "Data Science"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    excerpt: "미래인테리젼스 연구실에서 학부생 인턴을 통해 특허데이터 간 유사도를 분석, kaggle 문제풀이 세미나를 하며 데이터 사이언스의 매력을 알 수 있었습니다. 자연어 분석에 특히 관심을 가지고 공부를 이어가고 있습니다. "
 feature_row2:
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
     alt: "placeholder image 2"
