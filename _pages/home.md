@@ -9,7 +9,7 @@ header:
   overlay_image: /assets/images/20201017_152953.jpg
   actions:
     - label: "Contact now <i class='fas fa-bolt'></i>"
-      url: "https://github.com/djlim98/"
+      url: "mailto:ehdwlsdudwo1@gmail.com"
   # caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 excerpt: "안녕하세요 개발자 임동진입니다."
 intro: 
